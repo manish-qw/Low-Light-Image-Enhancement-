@@ -18,7 +18,7 @@ The model is designed to improve the quality of images captured in poor lighting
 - **Neural Network Architecture Design (DCE-Net, NAF-Net, CBAM)**  
 - **Optimization Techniques (AdamW, Batch Normalization, Activation Functions)**  
 - **Performance Evaluation (PSNR, SSIM)**  
-- **PyTorch, Python**  
+- **Keras, Python**  
 
 ## Results
 - Achieved significant improvements in image clarity and structure under low-light conditions.  
